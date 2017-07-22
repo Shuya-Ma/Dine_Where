@@ -1,0 +1,6 @@
+framework module Pods_yelp_test {
+  umbrella header "Pods-yelp_test-umbrella.h"
+
+  export *
+  module * { export * }
+}
